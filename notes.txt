@@ -1,0 +1,10 @@
+print - function 
+("...") - argument
+bug - a mistake in a program
+syntax error - a bug which is made by me by using keyboard ( literowka) 
+variable - is a container for a value inside the computer
+
+print ( *objects, sep = '', end = '\n')
+"\" - escape character
+
+scope - zmienna tylko w funkcji i nie bedzie uzywana w inej
